@@ -1,0 +1,24 @@
+body{
+    background-color: gray;
+    color: white
+}
+
+nav{
+  color: crimson;
+  text-align: center;
+}
+div{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+article{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+li{
+    text-align: center;
+}
